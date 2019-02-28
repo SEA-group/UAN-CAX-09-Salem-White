@@ -1,0 +1,14 @@
+<ASC023_Salem_1950_hull_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/ship/ASC023_Salem_1950_hull_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/ship/ASC023_Salem_1950_hull_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/ship/ASC023_Salem_1950_hull_mg.dds	</Texture>
+	</property>
+</ASC023_Salem_1950_hull_wire.mfm>

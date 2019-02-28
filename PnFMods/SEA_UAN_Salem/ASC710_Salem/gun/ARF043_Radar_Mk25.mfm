@@ -1,0 +1,20 @@
+<ARF043_Radar_Mk25.mfm>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/gun/ARF043_Radar_Mk25_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/gun/ARF043_Radar_Mk25_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/gun/ARF043_Radar_Mk25_n.dds	</Texture>
+	</property>
+</ARF043_Radar_Mk25.mfm>

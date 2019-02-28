@@ -1,0 +1,26 @@
+<AGM025_8in55_Triple_Mk16_dead.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	150	</Int>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/gun/AGM025_8in55_Triple_Mk16_dead_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/gun/AGM025_8in55_Triple_Mk16_dead_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/gun/AGM025_8in55_Triple_Mk16_n.dds	</Texture>
+	</property>
+</AGM025_8in55_Triple_Mk16_dead.mfm>
