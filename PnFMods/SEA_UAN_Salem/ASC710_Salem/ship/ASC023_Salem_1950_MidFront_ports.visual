@@ -34,12 +34,30 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	HP_FX_Fire_2_side_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.4840 0.5207 2.6868 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_2_side_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.5507 0.7353 0.2744 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	HP_FX_FloodLight_left_1	</identifier>
 				<transform>
 					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
-					<row3>	-0.1770 0.7460 0.8890 1.0000	</row3>
+					<row3>	-0.1770 0.7783 1.2579 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -48,7 +66,7 @@
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.1770 0.7980 1.2540 1.0000	</row3>
+					<row3>	0.1770 0.7980 1.5431 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -66,7 +84,7 @@
 					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
-					<row3>	-0.7460 0.1370 1.1680 1.0000	</row3>
+					<row3>	-0.7418 0.1386 1.1678 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -75,7 +93,25 @@
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.7460 0.1370 1.1680 1.0000	</row3>
+					<row3>	0.7418 0.1383 1.1681 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_RepairLight_left_1	</identifier>
+				<transform>
+					<row0>	0.1000 0.0000 0.9950 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9950 0.0000 0.1000 0.0000	</row2>
+					<row3>	-0.6878 0.4389 2.1891 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_RepairLight_right_2	</identifier>
+				<transform>
+					<row0>	0.0886 0.0000 -0.9961 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9961 0.0000 0.0886 0.0000	</row2>
+					<row3>	0.6215 0.4336 3.1381 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
