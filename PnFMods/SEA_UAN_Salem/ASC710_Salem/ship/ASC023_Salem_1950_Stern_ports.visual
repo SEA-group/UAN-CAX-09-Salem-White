@@ -160,39 +160,12 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_AM010_Speaker_1	</identifier>
-				<transform>
-					<row0>	-0.9659 0.0000 -0.2588 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.2588 0.0000 -0.9659 0.0000	</row2>
-					<row3>	0.3086 0.5841 -6.7071 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_AM078_Crane_Control_Wheel	</identifier>
 				<transform>
 					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
 					<row3>	0.1233 0.4810 -7.1699 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_AM545_Aircraft_Crane	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.4808 -7.0279 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC1387	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.5159 -6.7186 1.0000	</row3>
 				</transform>
 			</node>
 			<node>

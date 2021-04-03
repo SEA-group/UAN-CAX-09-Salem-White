@@ -11,3 +11,6 @@ Presented by SEA group
 ## 使用方法
 * **WG游戏中心用户**请把`content`、`PnFMods`和`PnFModsLoader.py`放到`[游戏安装目录]/bin/[数字最大的那个]/res_mods/`里面
 * **Steam客户端用户**请把`content`、`PnFMods`和`PnFModsLoader.py`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/`里面
+
+## Preview
+![UAN-CAX-09-Salem-White](https://raw.githubusercontent.com/SEA-group/UAN-CAX-09-Salem-White/master/Affiche.png)

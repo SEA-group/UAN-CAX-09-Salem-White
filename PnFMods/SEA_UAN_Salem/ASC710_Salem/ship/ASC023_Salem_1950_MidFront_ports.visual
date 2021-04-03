@@ -331,24 +331,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_AM047_Running_Lights_R	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.2874 1.0854 0.9550 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_AM048_Running_Lights_L	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	-0.2903 1.0854 0.9550 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_AM063_Wind_Direction	</identifier>
 				<transform>
 					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
@@ -439,15 +421,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATC1420	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0018 1.0025 1.1854 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_ATC1425	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
@@ -472,15 +445,6 @@
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
 					<row3>	0.0000 1.0966 0.9850 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC1432	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	-0.0044 0.7700 -0.0335 1.0000	</row3>
 				</transform>
 			</node>
 			<node>

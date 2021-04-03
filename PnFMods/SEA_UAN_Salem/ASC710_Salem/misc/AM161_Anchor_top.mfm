@@ -1,0 +1,38 @@
+<AM161_Anchor_top.mfm>
+	<fx>	shaders/materials/pbs/ship_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/misc/AM161_Anchor_top_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/ship/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/misc/AM161_Anchor_top_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/misc/AM161_Anchor_top_n.dds	</Texture>
+	</property>
+	<property>	detailMap
+		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>
+	</property>
+	<property>	g_detailAlbedoInfluence
+		<Float>	0.0000	</Float>
+	</property>
+	<property>	g_detailFadeDistance
+		<Float>	3.0000	</Float>
+	</property>
+	<property>	g_detailGlossInfluence
+		<Float>	0.0000	</Float>
+	</property>
+	<property>	g_detailNormalInfluence
+		<Float>	0.0000	</Float>
+	</property>
+	<property>	g_detailScaleU
+		<Float>	1.0000	</Float>
+	</property>
+	<property>	g_detailScaleV
+		<Float>	1.0000	</Float>
+	</property>
+</AM161_Anchor_top.mfm>

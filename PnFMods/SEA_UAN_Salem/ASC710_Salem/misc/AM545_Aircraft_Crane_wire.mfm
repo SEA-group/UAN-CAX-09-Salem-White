@@ -1,0 +1,14 @@
+<AM545_Aircraft_Crane.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/misc/AM545_Aircraft_Crane_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/misc/AM545_Aircraft_Crane_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Salem/ASC710_Salem/misc/AM545_Aircraft_Crane_n.dds	</Texture>
+	</property>
+</AM545_Aircraft_Crane.mfm>

@@ -124,48 +124,12 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATC1439	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.5345 6.6856 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC1440	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.5345 6.6856 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_ATC1441	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
 					<row3>	0.0000 0.4995 5.6551 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC1444	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.5896 6.2149 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC1448	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.5496 6.4125 1.0000	</row3>
 				</transform>
 			</node>
 		</node>
