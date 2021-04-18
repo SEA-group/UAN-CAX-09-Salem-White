@@ -137,7 +137,7 @@
 			<primitive>	MidFrontShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Salem/ASC710_Salem/ship/ASC023_Salem_1950_hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -151,7 +151,7 @@
 			<primitive>	MidFront_crack_BowShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Salem/ASC710_Salem/ship/ASC023_Salem_1950_hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -165,7 +165,7 @@
 			<primitive>	MidFront_crack_Bow_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Salem/ASC710_Salem/ship/C003_Razlom_old.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -179,7 +179,7 @@
 			<primitive>	MidFront_crack_MidBack_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Salem/ASC710_Salem/ship/ASC023_Salem_1950_deck.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -193,7 +193,7 @@
 			<primitive>	MidFront_patch_MidBack_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Salem/ASC710_Salem/ship/ASC023_Salem_1950_deck.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -207,7 +207,7 @@
 			<primitive>	MidFront_patch_MidBack_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Salem/ASC710_Salem/ship/ASC023_Salem_1950_hull_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -249,7 +249,7 @@
 			<primitive>	MidFront_patch_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Salem/ASC710_Salem/ship/ASC023_Salem_1950_hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -263,7 +263,7 @@
 			<primitive>	MidFront_crack_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Salem/ASC710_Salem/ship/ASC023_Salem_1950_hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -277,7 +277,7 @@
 			<primitive>	MidFront_crack_MidBack_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Salem/ASC710_Salem/ship/C003_Razlom_old.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -291,7 +291,7 @@
 			<primitive>	MidFront_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Salem/ASC710_Salem/ship/ASC023_Salem_1950_deck.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -305,7 +305,7 @@
 			<primitive>	MidFront_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Salem/ASC710_Salem/ship/ASC023_Salem_1950_hull_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
